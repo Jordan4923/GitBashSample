@@ -1,0 +1,2 @@
+$ git checkout loginbranch
+Switched to branch 'loginbranch'
